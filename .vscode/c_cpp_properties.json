@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW64",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "D:\\Soft\\CodeBlocks\\MinGW\\bin\\g++.exe",
+            "includePath": [
+                "${workspaceFolder}"
+            ],
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "win",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\Soft\\CodeBlocks\\MinGW\\bin\\g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
